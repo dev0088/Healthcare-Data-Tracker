@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "525053985309",
+    "firebase_url": "https://data-tracker-a3f95.firebaseio.com",
+    "project_id": "data-tracker-a3f95",
+    "storage_bucket": "data-tracker-a3f95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525053985309:android:d9565f89ef90b1a1a87cf4",
+        "android_client_info": {
+          "package_name": "com.practical.psych1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525053985309-2ormk0qt2ekco374ihagcj2j3humfoc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.practical.psych1",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "525053985309-ichlil0obomh5iekudjsaeupp0rffqco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCExmWcXlSSgp5grFtXVzPgjV_YkBKDuNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525053985309-ichlil0obomh5iekudjsaeupp0rffqco.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "525053985309-gedjj8fvmkhe1g0tup6qn43gfhkvvc31.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.practical.psych1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
